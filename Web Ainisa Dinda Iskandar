@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href='https://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Aldrich';font-size: 22px;font-color:white;
+}
+</style>
+</head>
+<body background="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00ODYtYmctMDI5LWt6MG4zZ290LmpwZw.jpg?s=5sTnY-gIL0hfKc0acEGd37QLeSffF93RgIzwDBM2S7I">
+<h1 align="center">Maulilu</h1>
+   <a href="#">home</a>
+   <a href="#">products</a>
+   <a href="#">cart</a>
+   <a href="#">likes</a>
+   <br>
+   <br>
+
+<img src="https://ih1.redbubble.net/image.1740636278.8970/ssrco,classic_tee,mens,fafafa:ca443f4786,front_alt,square_product,600x600.jpg" width="150px;"><br>
+<figcaption>
+    Don't Krill Us T-Shirt
+     </figcaption><br>
+<img src="https://ih1.redbubble.net/image.5092800028.5150/ssrco,slim_fit_t_shirt,mens,fafafa:ca443f4786,front,square_product,600x600.jpg" width="150px;"><br>
+<figcaption>
+    Cute and Whimsical T-Shirt
+    </figcaption><br>
+<img src="https://ih1.redbubble.net/image.4781715476.1750/ssrco,slim_fit_t_shirt,mens,fafafa:ca443f4786,front,square_product,600x600.jpg" width="150px;"><br>
+<figcaption>
+    I Love You T-Shirt</figcaption>
+
+    </body>
+</html>
